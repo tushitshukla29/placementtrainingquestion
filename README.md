@@ -1,4 +1,5 @@
 1. Micro and Array Update
+
 Micro purchased an array A having N integer values. After playing it for a while, he got bored of it and decided to update value of its element. In one second he can increase value of each array element by 1. He wants each array element's value to become greater than or equal to K. Please help Micro to find out the minimum amount of time it will take, for him to do so.
 
 Input: First line consists of a single integer, T, denoting the number of test cases. First line of each test case consists of two space separated integers denoting N and K. Second line of each test case consists of N space separated integers denoting the array A.
@@ -32,6 +33,8 @@ Sample Output
 0
 
 2. Hamiltonian and Lagrangian
+
+
 Students have become secret admirers of SEGP. They find the course exciting and the professors amusing. After a superb Mid Semester examination, it’s now time for the results. The TAs have released the marks of students in the form of an array, where arr[i] represents the marks of the ith student.
 
 Since you are a curious kid, you want to find all the marks that are not smaller than those on its right side in the array.
@@ -61,6 +64,8 @@ Sample output
 17 5 2
 
 3.Frustrated coders
+
+
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder has a skill value S[ i ] and he can only kill those coders that have strictly less skill than him. One more thing, all the guns have only 1 bullet. This roulette can take place in any random order. Fortunately, you have the time stone (haaan wo harre wala) and you can see all possible outcomes of this scenario. Find the outcome where the total sum of the remaining coder's skill is minimum. Print this sum.
 
 Input Format The first line contains N the no. of coders The next line contains N elements where the ith element is theS[ i ] of ith coder.
@@ -117,6 +122,8 @@ Sample Output
 Happy
 
 6.Remove Friends
+
+
 After getting her PhD, Christie has become a celebrity at her university, and her Facebook profile is full of friend requests. Being the nice girl, she is, Christie has accepted all the requests.
 
 Now Kuldeep is jealous of all the attention she is getting from other guys, so he asks her to delete some of the guys from her friend list.
